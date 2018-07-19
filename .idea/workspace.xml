@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c51a800-d399-4514-825e-9cae5f060c9a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/.idea/libraries/Maven__com_beust_jcommander_1_60.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/QR.eml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/QR.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/QR.userlibraries" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/qr.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/BarcodeFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/Binarizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/BinaryBitmap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/ChecksumException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/DecodeHintType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/Dimension.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/EncodeHintType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/FormatException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/HtmlAssetTranslator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/InvertedLuminanceSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/LuminanceSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/MultiFormatReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/MultiFormatWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/NotFoundException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/PlanarYUVLuminanceSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/RGBLuminanceSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/Reader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/ReaderException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/Result.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/ResultMetadataType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/ResultPoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/ResultPointCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/StringsResourceTranslator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/Writer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/WriterException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/aztec/AztecDetectorResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/aztec/AztecReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/aztec/AztecWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/aztec/decoder/Decoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/aztec/detector/Detector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/aztec/encoder/AztecCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/aztec/encoder/BinaryShiftToken.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/aztec/encoder/Encoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/aztec/encoder/HighLevelEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/aztec/encoder/SimpleToken.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/aztec/encoder/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/aztec/encoder/Token.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/Base64Decoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/BufferedImageLuminanceSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/CommandLineEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/CommandLineRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/DecodeWorker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/DecoderConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/EncoderConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/GUIRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/ImageReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/JAXBBase64Decoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/Java8Base64Decoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/MatrixToImageConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/MatrixToImageWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/AbstractDoCoMoResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/AddressBookAUResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/AddressBookDoCoMoResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/AddressBookParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/BizcardResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/BookmarkDoCoMoResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/CalendarParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/EmailAddressParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/EmailAddressResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/EmailDoCoMoResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/ExpandedProductParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/ExpandedProductResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/GeoParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/GeoResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/ISBNParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/ISBNResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/ParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/ParsedResultType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/ProductParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/ProductResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/ResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/SMSMMSResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/SMSParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/SMSTOMMSTOResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/SMTPResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/TelParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/TelResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/TextParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/URIParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/URIResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/URLTOResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/VCardResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/VEventResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/VINParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/VINResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/WifiParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/WifiResultParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/BitArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/BitMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/BitSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/CharacterSetECI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/DecoderResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/DefaultGridSampler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/DetectorResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/GlobalHistogramBinarizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/GridSampler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/HybridBinarizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/PerspectiveTransform.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/StringUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/detector/MathUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/detector/MonochromeRectangleDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/detector/WhiteRectangleDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/reedsolomon/GenericGF.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/reedsolomon/GenericGFPoly.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/reedsolomon/ReedSolomonDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/reedsolomon/ReedSolomonException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/DataMatrixReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/DataMatrixWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/decoder/BitMatrixParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/decoder/DataBlock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/decoder/DecodedBitStreamParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/decoder/Decoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/decoder/Version.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/detector/Detector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/ASCIIEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/Base256Encoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/C40Encoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/DataMatrixSymbolInfo144.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/DefaultPlacement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/EdifactEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/Encoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/EncoderContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/ErrorCorrection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/HighLevelEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/SymbolInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/SymbolShapeHint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/TextEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/encoder/X12Encoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/maxicode/MaxiCodeReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/maxicode/decoder/BitMatrixParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/maxicode/decoder/DecodedBitStreamParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/maxicode/decoder/Decoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/multi/ByQuadrantReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/multi/GenericMultipleBarcodeReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/multi/MultipleBarcodeReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/multi/qrcode/QRCodeMultiReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/multi/qrcode/detector/MultiDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/multi/qrcode/detector/MultiFinderPatternFinder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/CodaBarReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/CodaBarWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/Code128Reader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/Code128Writer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/Code39Reader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/Code39Writer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/Code93Reader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/Code93Writer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/EAN13Reader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/EAN13Writer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/EAN8Reader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/EAN8Writer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/EANManufacturerOrgSupport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/ITFReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/ITFWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/MultiFormatOneDReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/MultiFormatUPCEANReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/OneDReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/OneDimensionalCodeWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/UPCAReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/UPCAWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/UPCEANExtension2Support.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/UPCEANExtension5Support.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/UPCEANExtensionSupport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/UPCEANReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/UPCEANWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/UPCEReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/UPCEWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/AbstractRSSReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/DataCharacter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/FinderPattern.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/Pair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/RSS14Reader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/RSSUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/BitArrayBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/ExpandedPair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/ExpandedRow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/RSSExpandedReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AI013103decoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AI01320xDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AI01392xDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AI01393xDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AI013x0x1xDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AI013x0xDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AI01AndOtherAIs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AI01decoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AI01weightDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AbstractExpandedDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/AnyAIDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/BlockParsedResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/CurrentParsingState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/DecodedChar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/DecodedInformation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/DecodedNumeric.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/DecodedObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/FieldParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/rss/expanded/decoders/GeneralAppIdDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/PDF417Common.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/PDF417Reader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/PDF417ResultMetadata.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/PDF417Writer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/decoder/BarcodeMetadata.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/decoder/BarcodeValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/decoder/BoundingBox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/decoder/Codeword.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/decoder/DecodedBitStreamParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/decoder/DetectionResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/decoder/DetectionResultColumn.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/decoder/DetectionResultRowIndicatorColumn.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/decoder/PDF417CodewordDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/decoder/PDF417ScanningDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/decoder/ec/ErrorCorrection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/decoder/ec/ModulusGF.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/decoder/ec/ModulusPoly.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/detector/Detector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/detector/PDF417DetectorResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/encoder/BarcodeMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/encoder/BarcodeRow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/encoder/Compaction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/encoder/Dimensions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/encoder/PDF417.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/encoder/PDF417ErrorCorrection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/pdf417/encoder/PDF417HighLevelEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/QRCodeReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/QRCodeWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/decoder/BitMatrixParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/decoder/DataBlock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/decoder/DataMask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/decoder/DecodedBitStreamParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/decoder/Decoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/decoder/FormatInformation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/decoder/Mode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/decoder/QRCodeDecoderMetaData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/decoder/Version.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/AlignmentPattern.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/AlignmentPatternFinder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/Detector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/FinderPattern.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/FinderPatternFinder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/FinderPatternInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/encoder/BlockPair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/encoder/ByteMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/encoder/Encoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/encoder/MaskUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/encoder/MatrixUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/encoder/QRCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../QR/src/main/java/test.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/../QR/out/" />
+    <ignored path="$PROJECT_DIR$/../QR/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/QR$test.coverage" NAME="test Coverage Results" MODIFIED="1511853643848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../QR/src/main/java/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BitMatrix</find>
+      <find>bitmap</find>
+      <find>binarybitmap</find>
+      <find>decode</find>
+      <find>FinderPatternFinder</find>
+      <find>alignmentPattern</find>
+      <find>ResultPoint</find>
+      <find>processFinderPatternInfo</find>
+      <find>DetectorResult</find>
+      <find>fiel</find>
+      <find>sys</find>
+      <find>sampleGrid</find>
+      <find>getBlackMatrix</find>
+      <find>qr.txt</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../QR" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../QR/src/qrtest.java" />
+        <option value="$PROJECT_DIR$/../QR/src/com/google/zxing/client/j2se/CommandLineRunner.java" />
+        <option value="$PROJECT_DIR$/../QR/src/com/google/zxing/client/j2se/EncoderConfig.java" />
+        <option value="$PROJECT_DIR$/../QR/src/com/google/zxing/client/j2se/DecoderConfig.java" />
+        <option value="$PROJECT_DIR$/../QR/src/com/google/zxing/MultiFormatReader.java" />
+        <option value="$PROJECT_DIR$/../QR/src/com/google/zxing/qrcode/detector/AlignmentPattern.java" />
+        <option value="$PROJECT_DIR$/../QR/src/point.java" />
+        <option value="$PROJECT_DIR$/../QR/src/com/google/zxing/multi/qrcode/detector/MultiDetector.java" />
+        <option value="$PROJECT_DIR$/../QR/src/com/google/zxing/qrcode/decoder/Decoder.java" />
+        <option value="$PROJECT_DIR$/../QR/src/com/google/zxing/BinaryBitmap.java" />
+        <option value="$PROJECT_DIR$/../QR/src/com/google/zxing/common/DefaultGridSampler.java" />
+        <option value="$PROJECT_DIR$/../QR/src/com/google/zxing/qrcode/detector/Detector.java" />
+        <option value="$PROJECT_DIR$/../QR/src/com/google/zxing/qrcode/QRCodeReader.java" />
+        <option value="$PROJECT_DIR$/../QR/src/com/google/zxing/common/HybridBinarizer.java" />
+        <option value="$PROJECT_DIR$/../QR/src/test.java" />
+        <option value="$PROJECT_DIR$/../QR/pom.xml" />
+        <option value="$PROJECT_DIR$/../QR/src/main/java/test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="225" />
+    <option name="y" value="21" />
+    <option name="width" value="1400" />
+    <option name="height" value="829" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="QR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../QR" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.27745098" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="file://$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../QR" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="JavaScriptTraceType" factoryName="Spy-js" node="project" config="" has-config="false" system-proxy="true" proxy-port="3546" open-browser="false" browser="" limits="1,3,3,50" />
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../QR" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="QR" />
+      <envs />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c51a800-d399-4514-825e-9cae5f060c9a" name="Default" comment="" />
+      <created>1511332257832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511332257832</updated>
+      <workItem from="1511332267709" duration="5768000" />
+      <workItem from="1511338158288" duration="2957000" />
+      <workItem from="1511341183561" duration="1135000" />
+      <workItem from="1511347499439" duration="78000" />
+      <workItem from="1511347851342" duration="1269000" />
+      <workItem from="1511349238445" duration="1139000" />
+      <workItem from="1511396838274" duration="2733000" />
+      <workItem from="1511399703071" duration="4611000" />
+      <workItem from="1511404625804" duration="146000" />
+      <workItem from="1511404804067" duration="4251000" />
+      <workItem from="1511500346065" duration="309000" />
+      <workItem from="1511505107590" duration="625000" />
+      <workItem from="1511853210062" duration="3224000" />
+      <workItem from="1511857394938" duration="1147000" />
+      <workItem from="1511920784550" duration="684000" />
+      <workItem from="1513063471049" duration="1441000" />
+      <workItem from="1515816859117" duration="542000" />
+      <workItem from="1516326206999" duration="121000" />
+      <workItem from="1525346231902" duration="277000" />
+      <workItem from="1525859001341" duration="190000" />
+      <workItem from="1525859613220" duration="82000" />
+      <workItem from="1526018887930" duration="2533000" />
+      <workItem from="1526022529865" duration="476000" />
+      <workItem from="1526270686477" duration="812000" />
+      <workItem from="1526529780302" duration="789000" />
+      <workItem from="1526531066626" duration="1453000" />
+      <workItem from="1527040544750" duration="1038000" />
+      <workItem from="1527130742619" duration="90000" />
+      <workItem from="1527579861054" duration="39000" />
+      <workItem from="1527588002086" duration="173000" />
+      <workItem from="1528334802412" duration="1179000" />
+      <workItem from="1528422387600" duration="1052000" />
+      <workItem from="1529921413536" duration="1652000" />
+      <workItem from="1531133678407" duration="606000" />
+      <workItem from="1531995603514" duration="188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44809000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="225" y="21" width="1400" height="829" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25394547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28432837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2857143" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32714286" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46866727" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33727175" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32832617" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.277897" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46875" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22230114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/GridSampler.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="82" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/Detector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/BitMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11421">
+          <caret line="451" column="0" lean-forward="true" selection-start-line="451" selection-start-column="0" selection-end-line="451" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/QRCodeReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="84" column="26" lean-forward="false" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/QRCodeReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="79" column="5" lean-forward="false" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/Detector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3618">
+          <caret line="154" column="15" lean-forward="true" selection-start-line="154" selection-start-column="15" selection-end-line="154" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/QRCodeReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="79" column="5" lean-forward="false" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/Detector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3618">
+          <caret line="154" column="16" lean-forward="true" selection-start-line="154" selection-start-column="16" selection-end-line="154" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/Detector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/QRCodeReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="21" column="64" lean-forward="false" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/Detector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="81" column="10" lean-forward="false" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/ResultPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/qrtest.java" />
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/decoder/BitMatrixParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/EncoderConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1426">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/ResultPointCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/FinderPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/multi/qrcode/detector/MultiDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/AlignmentPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1018">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/AlignmentPatternFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="263" column="0" lean-forward="false" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/decoder/Decoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/PerspectiveTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.7/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2511">
+          <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/FinderPatternFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="86" column="25" lean-forward="false" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/LuminanceSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/DecoderConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/oned/OneDReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="268" column="0" lean-forward="false" selection-start-line="268" selection-start-column="0" selection-end-line="268" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/BinaryBitmap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/GlobalHistogramBinarizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="107" column="20" lean-forward="false" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/Binarizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="55" column="38" lean-forward="false" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/DefaultGridSampler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="59" column="11" lean-forward="false" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/MultiFormatReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="171" column="38" lean-forward="false" selection-start-line="171" selection-start-column="38" selection-end-line="171" selection-end-column="38" />
+          <folding>
+            <element signature="method#setHints#0;class#MultiFormatReader#0" expanded="false" />
+            <element signature="method#reset#0;class#MultiFormatReader#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/datamatrix/decoder/DataBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="70" column="11" lean-forward="false" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/BitMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="448" column="18" lean-forward="false" selection-start-line="448" selection-start-column="18" selection-end-line="448" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/GridSampler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/QRCodeReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3190">
+          <caret line="172" column="45" lean-forward="false" selection-start-line="172" selection-start-column="45" selection-end-line="172" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/common/HybridBinarizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4224">
+          <caret line="213" column="51" lean-forward="false" selection-start-line="213" selection-start-column="51" selection-end-line="213" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/qrcode/detector/Detector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4202">
+          <caret line="222" column="54" lean-forward="false" selection-start-line="222" selection-start-column="54" selection-end-line="222" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/CommandLineRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="52" column="13" lean-forward="false" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/j2se/CommandLineEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/com/google/zxing/client/result/SMSMMSResultParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="93" column="45" lean-forward="false" selection-start-line="93" selection-start-column="45" selection-end-line="93" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QR/src/main/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>QR</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.60</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
